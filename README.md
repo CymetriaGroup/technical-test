@@ -153,7 +153,15 @@ Desarrollar una interfaz web para consumir los servicios implementados.
 
 ### 5. Entregables
 
-Código entregado mediante el subir un repositorio a github (Puede subir ambos proyectos en el mismo repositorio) y enviar a leonardo.ramirez@cymetria.com .
+El código debe entregarse mediante un repositorio en GitHub.
+
+Se permite subir backend y frontend en un mismo repositorio o en repositorios separados.
+
+El enlace al repositorio debe enviarse al correo:
+leonardo.ramirez@cymetria.com
+
+No se aceptarán entregas en formato .zip, archivos comprimidos ni otros medios distintos a enlaces de GitHub.
+Las entregas realizadas en formatos diferentes no serán evaluadas.
 
 **Instrucciones claras para:**
 
