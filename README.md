@@ -153,7 +153,7 @@ Desarrollar una interfaz web para consumir los servicios implementados.
 
 ### 5. Entregables
 
-Código entregado mediante el subir un repositorio a github (Puede subir ambos proyectos en el mismo repositorio).
+Código entregado mediante el subir un repositorio a github (Puede subir ambos proyectos en el mismo repositorio) y enviar a leonardo.ramirez@cymetri.com .
 
 **Instrucciones claras para:**
 
@@ -181,7 +181,7 @@ Código entregado mediante el subir un repositorio a github (Puede subir ambos p
 
 - Código desacoplado, coherente y extensible.
 
-** B. Calidad del CRUD y paginación (20 pts) **
+**B. Calidad del CRUD y paginación (20 pts)**
 
 - CRUD completo y consistente.
 
