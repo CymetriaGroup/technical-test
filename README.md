@@ -153,7 +153,7 @@ Desarrollar una interfaz web para consumir los servicios implementados.
 
 ### 5. Entregables
 
-Código entregado mediante el subir un repositorio a github (Puede subir ambos proyectos en el mismo repositorio) y enviar a leonardo.ramirez@cymetri.com .
+Código entregado mediante el subir un repositorio a github (Puede subir ambos proyectos en el mismo repositorio) y enviar a leonardo.ramirez@cymetria.com .
 
 **Instrucciones claras para:**
 
